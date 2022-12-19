@@ -1,4 +1,4 @@
-# Interaction-Synergistic-Effect
+# Understanding Interaction Synergistic Effect <br> with Graph Structural Approach
 ## Abstract
 In the current era of big data, large amounts of data are being generated in various domains.
 Moreover, synergistic effects occur in each domain.
