@@ -1,15 +1,11 @@
-# Understanding Interaction Synergistic Effect <br> with Graph Structural Approach
+# Understanding asymmetric synergistic effect between movie actors
+
 ## Abstract
-In the current era of big data, large amounts of data are being generated in various domains.
-Moreover, synergistic effects occur in each domain.
-Synergistic effect occurs when more than individual work is achieved, and synergies that interact with each other may differ.
-
-This study aims to understand synergy by measuring synergies that interact based on individual competences.
-Existing measurement methods looked at synergy symmetrically by measuring it dichotomously or intensity.
-This measurement method cannot measure asymmetric synergistic effects.
-Therefore, this study proposes a method to measure the different synergistic effects given and received when there are different competences between actors, utilizing information on movies screened in Korea.
-This also allows for the synergy received by new actors to be measured differently depending on the box office of the movies in which they appeared.
-
+Movie actors have synergistic effects with other actors who appear together.
+We focused on the asymmetric interaction of synergy given and received by each, depending on the actor's competence.
+This study concentrates on understanding the asymmetric synergy between actors.
+We propose an asymmetric synergy measurement method for actor’s star-power-based costarring movies to understand the synergistic effect.
+When measuring the synergy, we designed it so that it would be possible to measure the synergy that varies with the time of the costarring movie’s release and the synergy of new actors. 
 
 <figure>
   <p align="center">
