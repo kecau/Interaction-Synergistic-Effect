@@ -20,5 +20,5 @@ This also allows for the synergy received by new actors to be measured different
 
 ## Dataset
 - Data Source : [KOBIS](https://www.kobis.or.kr)
-- daily.csv : Daily box office data (2003.11/11~2021.07/07)
-- movie.csv : Detailed data of movies in the daily.csv
+- *daily.csv* : Daily box office data (2003.11/11~2021.07/07)
+- *movie.csv* : Detailed data of movies in the *daily.csv*
