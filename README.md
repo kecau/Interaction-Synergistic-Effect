@@ -10,7 +10,7 @@ When measuring the synergy, we designed it so that it would be possible to measu
 <figure>
   <p align="center">
     <img src="figure1.png" alt="Trulli" style="width:60%">
-    <figcaption align = "center"><b>Fig.1 : Synergy measurement criteria. (a) Binary of synergy (b) Intensity of synergy (c) Asymmetry of synergy</b></figcaption>
+    <figcaption align = "center"><b>Fig.1 : Different perspectives on synergy. (a) Symmetry (binary), binary : existence or nonexistence of co-starring movie of the two actors (b) Symmetry (average), average : box office average of co-starring movies of the two actors (c) Asymmetry</b></figcaption>
   </p>
 </figure>
 
