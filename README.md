@@ -1,4 +1,4 @@
-# Understanding asymmetric synergistic effect between movie actors
+# Understanding synergistic effect of asymmetry between movie actors
 
 ## Abstract
 Movie actors have synergistic effects with other actors who appear together.
